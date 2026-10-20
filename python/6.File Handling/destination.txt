@@ -1,0 +1,6 @@
+This is a new file.
+This file was created using Python.
+This line was added to the file.
+Line 1
+Line 2
+Line 3
